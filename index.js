@@ -21,20 +21,53 @@ const questions = [{
 {
     type: 'list',
     name: 'license',
-    message:'what kind of license you use for this project?',
-    choices:["MIT", "GNU","Apache"]
+    message: 'what kind of license you use for this project?',
+    choices: ["MIT", "GNU", "Apache"]
 
 },
+
+{
+    type: 'input',
+    name: 'installation',
+    message: 'What is the instruction for installation?'
+
+},
+
+{
+    type: 'input',
+    name: 'test',
+    message: 'Enter command should run to run tests?'
+},
+{
+    type: 'input',
+    name: 'usage',
+    message: 'What is the usage information?'
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address?'
+},
+{
+    type: 'input',
+    name: 'username',
+    message: 'What is your GitHub username?'
+},
+{
+    type: 'input',
+    name: 'contribution',
+    message: 'What are the contribution guidlines?'
+}
 
 
 
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) { }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() { }
 
 // Function call to initialize app
 init();
