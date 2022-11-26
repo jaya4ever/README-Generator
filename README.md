@@ -1,11 +1,11 @@
-# good read me
+# Good read me generator
 
 
  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  mmmm
+  user can dynamically create good readme.md
 
   
   ## Table of contents
@@ -18,22 +18,22 @@
   
 
   ## Installation
-  hhhhh
+  npm i
 
 
   ## Usage
-  hhhhh
+  its very easy quick and efficiant way for developer to create the readme.md
 
 
 
   ## Contribution 
-  hhhhh
+  n/a
 
 
   
   
   ## Tests
-  hhhhh
+  npm test
 
 
 
@@ -41,8 +41,8 @@
   ## Questions
   Please reach out to me if you have any questions
   
-  * My email id is hhhhh
-  * My GitHub profile is [GitHub](https://github.com/hhhh)
+  * My email id is jayasingh@me.com
+  * My GitHub profile is [GitHub](https://github.com/jaya4ever)
 
 
   ## License
