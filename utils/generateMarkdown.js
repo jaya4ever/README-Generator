@@ -29,8 +29,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ${renderLicenseSection(data.license)}
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
   ${data.description}
@@ -67,13 +67,15 @@ function generateMarkdown(data) {
 
   
   ## Questions
-  ${data.questions}
-
-
+  Please reach out to me if you have any questions
+  
+  * My email id is ${data.email}
+  * My GitHub profile is [GitHub](https://github.com/${data.github})
 
 
   ## License
-  ${data.license}
+
+  **Note** This application is under the ${data.license} license.
 
 
 
