@@ -1,5 +1,5 @@
-# read me
-  renderLicenseSection({license})
+# readme
+  
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
@@ -25,7 +25,7 @@
   n/a
 
   ## Tests
-  npm tests
+  npm test
 
  ## Questions
   Please reach out to me if you have any questions
@@ -36,5 +36,5 @@
 
   ## License
   Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
-  **Note** This application is under the MIT(https://github.com/jaya4ever/README-Generator/blob/main/LICENSElicense).
+  **Note** This application is under the [MIT](https://github.com/jaya4ever/README-Generator/blob/main/LICENSElicense).
 
