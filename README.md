@@ -1,10 +1,10 @@
-# Good README.md Generator
+# good read me
 
-  
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  renderLicenseSection({license})
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg/jaya4ever)
 
   ## Description
-  Through this application user can dynamically create a good readme.md in less time.
+  User can dynamically create good read me
 
   
   ## Table of contents
@@ -21,7 +21,7 @@
 
 
   ## Usage
-  For the user who wants good readme to write in less and efficient way
+  user can dynamically create it 
 
 
 

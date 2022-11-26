@@ -8,7 +8,7 @@ function renderLicenseLink(license) {}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {
+function renderLicenseSection({license}) {
   
   if (license === 'MIT' ){
     return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]";
@@ -29,8 +29,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  renderLicenseSection({license})
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg/${data.github})
 
   ## Description
   ${data.description}
