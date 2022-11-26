@@ -19,13 +19,13 @@
   npm i
 
    ## Usage
-  helpful
+  successful
 
   ## Contribution 
   n/a
 
   ## Tests
-  npm test
+  npm tests
 
  ## Questions
   Please reach out to me if you have any questions
@@ -36,5 +36,5 @@
 
   ## License
   Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
-  **Note** This application is under the MIT license.
+  **Note** This application is under the MIT(https://github.com/jaya4ever/README-Generator/blob/main/LICENSElicense).
 

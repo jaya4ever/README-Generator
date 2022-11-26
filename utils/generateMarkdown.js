@@ -67,7 +67,7 @@ function generateMarkdown(data) {
 
   ## License
   Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
-  **Note** This application is under the ${data.license} license.
+  **Note** This application is under the ${data.license}(https://github.com/jaya4ever/README-Generator/blob/main/LICENSElicense).
 
 `;
 }
