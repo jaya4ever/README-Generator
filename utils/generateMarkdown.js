@@ -62,12 +62,12 @@ function generateMarkdown(data) {
   Please reach out to me if you have any questions
   
   * My email id is ${data.email}
-  * My GitHub profile is [GitHub](https://github.com/${data.github})
+  * My GitHub profile is [Jaya4ever](https://github.com/${data.github})
 
 
   ## License
   Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
-  **Note** This application is under the [MIT](https://opensource.org/licenses/MIT)
+  **Note** This application is under the [${data.license}](https://mit-license.org)
 
 `;
 }
