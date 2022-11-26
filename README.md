@@ -1,6 +1,7 @@
 # read me
 
   
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description
   good read me
@@ -25,7 +26,7 @@
 
 
   ## Contribution 
-  n/a
+  hhhh
 
 
   
