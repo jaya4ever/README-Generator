@@ -1,10 +1,11 @@
 # good read me
 
+
  
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg/jaya4ever)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description
-  User can dynamically create good read me
+  mmmm
 
   
   ## Table of contents
@@ -17,22 +18,22 @@
   
 
   ## Installation
-  npm i
+  hhhhh
 
 
   ## Usage
-  user can dynamically create it 
+  hhhhh
 
 
 
   ## Contribution 
-  n/a
+  hhhhh
 
 
   
   
   ## Tests
-  npm test
+  hhhhh
 
 
 
@@ -40,8 +41,8 @@
   ## Questions
   Please reach out to me if you have any questions
   
-  * My email id is jayasingh@me.com
-  * My GitHub profile is [GitHub](https://github.com/jaya4ever)
+  * My email id is hhhhh
+  * My GitHub profile is [GitHub](https://github.com/hhhh)
 
 
   ## License
