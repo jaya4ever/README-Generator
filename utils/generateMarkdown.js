@@ -1,24 +1,25 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) { }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) { }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection({license}) {
-  
-  if (license === 'MIT' ){
+function renderLicenseSection({ license }) {
+
+  if (license === 'MIT') {
     return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]";
-  } else if(license === 'GNU'){
-     return "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]";
-  } else if (license === 'Apache'){
+  } else if (license === 'GNU') {
+    return "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]";
+  } else if (license === 'Apache') {
     return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]";
-  }else{
+  } else {
     return ""
   }
+  
 }
 //renderLicenseSection({license})
 
@@ -27,11 +28,10 @@ function renderLicenseSection({license}) {
 
 
 function generateMarkdown(data) {
+  renderLicenseSection({license})
   return `# ${data.title}
-
-
- 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
+ ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
   ${data.description}
@@ -49,25 +49,16 @@ function generateMarkdown(data) {
   ## Installation
   ${data.installation}
 
-
-  ## Usage
+   ## Usage
   ${data.usage}
-
-
 
   ## Contribution 
   ${data.contribution}
 
-
-  
-  
   ## Tests
   ${data.test}
 
-
-
-  
-  ## Questions
+ ## Questions
   Please reach out to me if you have any questions
   
   * My email id is ${data.email}
@@ -75,11 +66,8 @@ function generateMarkdown(data) {
 
 
   ## License
-
+  Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
   **Note** This application is under the ${data.license} license.
-
-
-
 
 `;
 }
