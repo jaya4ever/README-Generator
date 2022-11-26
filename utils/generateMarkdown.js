@@ -28,9 +28,9 @@ function renderLicenseSection({ license }) {
 
 
 function generateMarkdown(data) {
-  renderLicenseSection({license})
-  return `# ${data.title}
   
+  return `# ${data.title}
+  renderLicenseSection({license})
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description

@@ -1,9 +1,9 @@
 # read me
-
+  renderLicenseSection({license})
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  dynamically create the readme
+  good read me
 
   
   ## Table of contents
@@ -19,7 +19,7 @@
   npm i
 
    ## Usage
-  dynamically created
+  helpful
 
   ## Contribution 
   n/a
@@ -30,7 +30,7 @@
  ## Questions
   Please reach out to me if you have any questions
   
-  * My email id is jayasingh2me.com
+  * My email id is jayasingh@me.com
   * My GitHub profile is [GitHub](https://github.com/jaya4ever)
 
 
