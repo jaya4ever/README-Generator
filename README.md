@@ -19,7 +19,7 @@
   npm i
 
    ## Usage
-  successful
+  n/a
 
   ## Contribution 
   n/a
@@ -31,10 +31,10 @@
   Please reach out to me if you have any questions
   
   * My email id is jayasingh@me.com
-  * My GitHub profile is [GitHub](https://github.com/jaya4ever)
+  * My GitHub profile is [GitHub](https://github.com/jayarever)
 
 
   ## License
   Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
-  **Note** This application is under the [MIT](https://github.com/jaya4ever/README-Generator/blob/main/LICENSElicense).
+  **Note** This application is under the [MIT](https://opensource.org/licenses/MIT)
 
