@@ -66,7 +66,7 @@ function generateMarkdown(data) {
 
 
   ## License
-  Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
+  Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)\
   **Note** This application is under the [${data.license}](https://mit-license.org)
 
 `;

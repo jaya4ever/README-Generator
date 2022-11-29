@@ -1,9 +1,9 @@
-# readme
+# Good README.md Generator
   
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  good read me
+  User can dynamically generate a good readme file for their repo
 
   
   ## Table of contents
@@ -19,7 +19,7 @@
   npm i
 
    ## Usage
-  n/a
+  This is for the developer who wants to create a good readme in little time in a very safe and efficient way
 
   ## Contribution 
   n/a
@@ -31,10 +31,9 @@
   Please reach out to me if you have any questions
   
   * My email id is jayasingh@me.com
-  * My GitHub profile is [Jaya4ever](https://github.com/jay4ever)
+  * My GitHub profile is [Jaya4ever](https://github.com/jaya4ever)
 
 
   ## License
-  Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)
-  **Note** This application is under the [MIT](https://mit-license.org)
+  Copyright (c) 2022 [GitHub](https://github.com/jaya4ever)  **Note** This application is under the [MIT](https://mit-license.org)
 
