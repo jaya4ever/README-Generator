@@ -1,9 +1,9 @@
-# Good README.md Generator
+# GOOD README.md Generator
   
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  User can dynamically generate a good readme file for their repo
+  User can dynamically generate a good readme in a little time and in a very efficient way
 
   
   ## Table of contents
@@ -19,7 +19,7 @@
   npm i
 
    ## Usage
-  This is for the developer who wants to create a good readme in little time in a very safe and efficient way
+  For a developer who wants less time to spend to write readme.md in their project
 
   ## Contribution 
   n/a
