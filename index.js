@@ -21,10 +21,10 @@ const questions = [{
 },
 
 {
-    type: 'checkbox',
+    type: 'list',
     name: 'license',
     message: 'what kind of license you use for this project?',
-    choices: ["MIT", "GNU", "Apache"]
+    choices: ["MIT", "GNU", "Apache", "No License"]
 
 },
 
